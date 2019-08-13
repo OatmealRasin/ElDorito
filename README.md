@@ -1,4 +1,4 @@
-**ElDewrito development is on hold right now. We are not accepting issue reports or pull requests. For more information, please see our [blog](http://blog.eldewrito.com/).**
+**Crappy Edit of Eldewrito to add custom rotation snapping. pressing the left and right arrows to change rotation snap just toggles between off and 90. To get custom snapping you need to set it using the command in the console.**
 
 <img src="http://i.imgur.com/IkTrjna.png" width="190" height="164" align="right"/>
 
